@@ -36,7 +36,7 @@ $settings_dir = "./settings";
 $language_dir = "./languages";
 
 
-require_once("$settings_dir/database.php");
+require_once("settings/database.php");
 require_once("$language_dir/en-language.php");
 require_once("$include_dir/searchfuncs.php");
 require_once("$include_dir/categoryfuncs.php");
