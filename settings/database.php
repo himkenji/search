@@ -1,8 +1,8 @@
 <?php
-	$database="sql9242316";
-	$mysql_user = "sql9242316";
-	$mysql_password = "mQzGyYWkVi"; 
-	$mysql_host = "sql9.freemysqlhosting.net";
+	$database="sampledb";
+	$mysql_user = "danu";
+	$mysql_password = "bmroot"; 
+	$mysql_host = "172.30.129.138";
 	$mysql_table_prefix = "";
 
 
