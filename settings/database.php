@@ -3,6 +3,8 @@
 	$mysql_user = "sql9242316";
 	$mysql_password = "mQzGyYWkVi"; 
 	$mysql_host = "sql9.freemysqlhosting.net";
+	$mysql_table_prefix = "pdo";
+
 
 
 
